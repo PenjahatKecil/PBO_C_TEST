@@ -1,1 +1,3 @@
 console.log("Nikolas Ziko B / 3309")
+
+// addEventListener
